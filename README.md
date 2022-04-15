@@ -7,9 +7,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 💼 I’m currently working fulltime as a full stack developer.
 
-- 📫 How to reach me **psudarshan37@gmail.com**
+- 🤖 Intersted and specialize in backend web development.
+
+- 📫 How to reach me : **psudarshan37@gmail.com**
 
 <br>
 
