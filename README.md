@@ -68,3 +68,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-pr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
+<br>
+![Snake Animation](https://raw.githubusercontent.com/Sudarshan-PR/Sudarshan-PR/output/github-contribution-grid-snake.svg)
