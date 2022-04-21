@@ -55,9 +55,9 @@
 <br />
 
 <h3>Statistical Data :-</h3>
-<div style="display: flex; flex-direction: row; justify-content:flex-end;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan-pr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="sudarshan-pr" bg_color=#808080 />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-pr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+<div style="display: grid; grid-template-columns: auto auto auto auto auto auto;">
+    <img align="center" style="grid-column: 1 / span 3;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan-pr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="sudarshan-pr" />
+    <img align="center" style="grid-column: 4 / span 3;" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-pr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
 </div>
 
 <br />
