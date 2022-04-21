@@ -63,4 +63,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-pr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 <br>
-<p><img src="https://raw.githubusercontent.com/Sudarshan-PR/Sudarshan-PR/output/github-contribution-grid-snake.svg" alt="snake animation" align="center" /></p>
+<p>
+  ![Snake Game](../output/github-contribution-grid-snake-dark.svg)
+</p>
+<!-- <p><img src="https://raw.githubusercontent.com/Sudarshan-PR/Sudarshan-PR/output/github-contribution-grid-snake.svg" alt="snake animation" align="center" /></p> -->
