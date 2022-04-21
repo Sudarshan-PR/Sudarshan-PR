@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudarshan P</h1>
 <h3 align="center">Software Developer at <a href="https://github.com/quickmetrix">Quickmetrix</a> </h3>
 
-<br>
+<br />
 
-<br>
+<br />
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **psudarshan37@gmail.com**
 
-<br>
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,7 @@
       alt="adampithewan" height="30" width="40" /></a> 
 </p>
 
-<br>
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,18 +52,15 @@
     </a>
 </p>
 
-<br>
+<br />
 
 <h3>Statistical Data :-</h3>
 <div style="display: flex; flex-direction: row; justify-content:flex-end;">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan-pr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-        alt="sudarshan-pr" 
-        bg_color=#808080/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-pr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudarshan-pr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="sudarshan-pr" bg_color=#808080 />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshan-pr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</div>
 
-<br>
-<p>
-  ![Snake Game](../output/github-contribution-grid-snake-dark.svg)
-</p>
+<br />
 <!-- <p><img src="https://raw.githubusercontent.com/Sudarshan-PR/Sudarshan-PR/output/github-contribution-grid-snake.svg" alt="snake animation" align="center" /></p> -->
+
+![Snake Game](../output/github-contribution-grid-snake-dark.svg)
