@@ -7,10 +7,8 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 💼 I’m currently working as a full stack developer.
-
-- 🤖 Interested, specialize and enjoy backend web development.
-
+- dev.
+- "If I was stranded on an island and the only way to get off was to make a pretty UI, I'd die there." - some rando named Linus Torvalds
 - 📫 How to reach me : **psudarshan37@gmail.com**
 
 <br />
