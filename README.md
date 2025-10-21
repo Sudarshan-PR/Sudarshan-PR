@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudarshan P</h1>
-<h3 align="center">Software Developer at <a href="https://github.com/quickmetrix">Quickmetrix</a> </h3>
+<h3 align="center">I write code sometimes</h3>
 
 <br />
 
@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - dev.
-- "If I was stranded on an island and the only way to get off was to make a pretty UI, I'd die there." - some rando named Linus Torvalds
+- Quote I find most relatable "If I was stranded on an island and the only way to get off was to make a pretty UI, I'd die there."
 - 📫 How to reach me : **psudarshan37@gmail.com**
 
 <br />
